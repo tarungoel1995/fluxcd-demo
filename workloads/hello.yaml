@@ -1,9 +1,9 @@
 apiVersion: helm.fluxcd.io/v1
 kind: HelmRelease
 metadata:
-  name: "Hello-World"
+  name: "hello-world"
 spec:
-  releaseName: "Hello-World"
+  releaseName: "hello-world"
   timeout: 300
   resetValues: true
   forceUpgrade: false
