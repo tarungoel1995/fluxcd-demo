@@ -11,7 +11,7 @@ spec:
     enable: false
   chart:
     git: git@github.com:tarungoel1995/helloworld
-    ref: acc53fd1e42aa4181a4378e20e89fe74a1b01e65
+    ref: 2a69b3cdbee246b80be844fba31e73329276116d
     path: helloworld
 #  values:
 #    version: ""
